@@ -1,0 +1,12 @@
+ Q. What is Binary Search Algirithm ?
+ 
+ - Binary Search is the process of searching an element from sorted Array by repetedly
+ dividing the search interval in half.
+ 
+ - Binary search is faster than linear search.
+ 
+ - Although Binary search is very optimised way of searching a particular element 
+ however the Array must be sorted on which you want to perform the search operation.
+ 
+ - If the array is not sorted in advanced then we have to perform sorting first and then 
+ only we can perform Binary Search on that.
