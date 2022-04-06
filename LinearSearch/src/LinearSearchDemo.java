@@ -29,3 +29,8 @@ public class LinearSearchDemo
 		return -1;
 	}
 }
+
+
+
+
+// Output : 6
