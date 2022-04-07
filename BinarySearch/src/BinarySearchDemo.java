@@ -12,7 +12,6 @@ public class BinarySearchDemo
 		
 	}
 	
-	
 		public static int binarySearch(int[] arr, int findNum)
 		{
 			int iIndex = 0;
