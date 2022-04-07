@@ -17,7 +17,7 @@ public class BinarySearchDemo
 		{
 			int iIndex = 0;
 			int lIndex = arr.length-1;
-			int midIndex = iIndex + lIndex /2;
+			int midIndex = (iIndex + lIndex)/2;
 			
 			while(iIndex <= lIndex)
 			{
