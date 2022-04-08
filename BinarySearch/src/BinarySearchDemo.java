@@ -4,7 +4,7 @@ public class BinarySearchDemo
 	{
 		int[] arr = {1,2,3,4,5,6,7,8,9,10};
 		
-		int findNum =11;
+		int findNum =10;
 		int search = binarySearch(arr, findNum);
 		
 		System.out.println(search);
@@ -32,7 +32,7 @@ public class BinarySearchDemo
 				{
 					lIndex = midIndex-1;
 				}
-				
+				midIndex = (iIndex+lIndex)/2;
 			}
 			return -1;
 		}
