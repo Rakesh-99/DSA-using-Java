@@ -30,3 +30,17 @@ public class BubbleSort
 		System.out.println(Arrays.toString(arr));
 	}
 }
+
+
+
+
+
+
+					// The output we will get is  : 
+
+/*
+
+Before Sorting the Array Value was : [9, 8, 7, 6, 5, 54, 3, 2, 29, 1]
+After Sorting, The Array value is :[1, 2, 3, 5, 6, 7, 8, 9, 29, 54]
+
+*/
