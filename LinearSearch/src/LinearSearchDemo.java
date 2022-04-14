@@ -26,9 +26,14 @@ public class LinearSearchDemo
 				return i;
 			}
 		}
+		if(true)
+		{
+			System.out.println("Specified element is not there in the Array list !");
+		}
 		return -1;
 	}
 }
+
 
 
 
