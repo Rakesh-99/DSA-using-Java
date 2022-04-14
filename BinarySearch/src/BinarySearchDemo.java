@@ -4,7 +4,7 @@ public class BinarySearchDemo
 	{
 		int[] arr = {1,2,3,4,5,6,7,8,9,10};
 		
-		int findNum =10;
+		int findNum =101;
 		int search = binarySearch(arr, findNum);
 		
 		System.out.println(search);
@@ -34,6 +34,19 @@ public class BinarySearchDemo
 				}
 				midIndex = (iIndex+lIndex)/2;
 			}
+			if(true)
+			{
+				System.out.println("Specified element is not avilable in the Array list !");
+			}
 			return -1;
 		}
 }
+
+
+/*
+output : 
+
+Specified element is not avilable in the Array list !
+
+-1
+*/
